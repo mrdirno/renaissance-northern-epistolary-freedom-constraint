@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-northern-epistolary-freedom-constraint",
+  "title": "The Iron Mouth's Hungering Silence",
+  "tagline": "In a city of whispers and constraint, a woman deciphers her brother's coded letters, discovering a truth that could shatter her world or finally set her free.",
+  "target_words": 75498,
+  "actual_words": 75498,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artistic Creation vs. Societal Constraint",
+    "The Epistolary Search for Truth",
+    "Silence as Both Cage and Weapon",
+    "The Price of Familial and Personal Freedom"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Iron Mouth’s Tidings",
+      "words": 6291
+    },
+    {
+      "ch": 2,
+      "title": "An Empty Jar, A Full Silence",
+      "words": 6291
+    },
+    {
+      "ch": 3,
+      "title": "The Vanishing Point of Faith",
+      "words": 6291
+    },
+    {
+      "ch": 4,
+      "title": "A Ransom of Nothing",
+      "words": 6291
+    },
+    {
+      "ch": 5,
+      "title": "A Commodity of Fear",
+      "words": 6291
+    },
+    {
+      "ch": 6,
+      "title": "The Forest’s Brutal Scripture",
+      "words": 6291
+    },
+    {
+      "ch": 7,
+      "title": "A Carcass of Crystal and Code",
+      "words": 6291
+    },
+    {
+      "ch": 8,
+      "title": "The Bridge of a Held Breath",
+      "words": 6291
+    },
+    {
+      "ch": 9,
+      "title": "A Silence Composed",
+      "words": 6291
+    },
+    {
+      "ch": 10,
+      "title": "The Intake of Breath",
+      "words": 6291
+    },
+    {
+      "ch": 11,
+      "title": "The Well, A Hungering Silence",
+      "words": 6291
+    },
+    {
+      "ch": 12,
+      "title": "A Knot of Possibility",
+      "words": 6291
+    }
+  ]
+}
